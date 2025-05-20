@@ -24,4 +24,8 @@
     <ProjectReference Include="..\src\DesignPatterns.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="5_Decorator\" />
+  </ItemGroup>
+
 </Project>
